@@ -1,4 +1,9 @@
 import { 
+  Shaker,
+  Sniper,
+  Riki
+} from 'dota'
+import { 
   NgModule,
   Component,
   Directive
